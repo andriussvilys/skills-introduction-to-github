@@ -1,0 +1,3 @@
+1) make changes (eg create file) on main branch
+2) create new branch
+3) reset main branch to commit before the changes were made 
