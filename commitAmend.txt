@@ -1,0 +1,2 @@
+Add changes to commit or change commit message
+git commit --amend
